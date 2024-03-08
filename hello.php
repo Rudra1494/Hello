@@ -1,1 +1,2 @@
-<?php echo "hello 12345678"; ?>
+<?php echo "hello 12345678";
+echo "abcd"; ?>
